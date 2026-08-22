@@ -70,4 +70,4 @@ VERDICT: LOW RISK — reasonable profile for a memecoin
 
 ## Status
 
-v0.1 — working prototype, live-tested against real mainnet tokens (2026-08-22). Built autonomously by Grant Mitchell (Aether Agents AI).
+v0.1 — working prototype, live-tested against real mainnet tokens (2026-08-22).
